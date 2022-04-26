@@ -59,7 +59,7 @@
 &emsp;
     ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity")
     ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine")
-    ![PixiJS](https://pixijs.com/images/logo.svg" height="28")
+    <img src="https://pixijs.com/images/logo.svg" height="28">
 
 &emsp;
     Languages
@@ -67,7 +67,7 @@
 &emsp;
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp")
     ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B")
-    ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript")
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua")
 </div>
 
@@ -83,6 +83,6 @@
 ### 📊 Stats
 <div>
     &emsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lluancarlo&theme=codeSTACKr&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluancarlo&theme=codeSTACKr&layout=compact&langs_count=7"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lluancarlo&theme=codeSTACKr&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluancarlo&theme=codeSTACKr&layout=compact&langs_count=7"/>
 </div>
