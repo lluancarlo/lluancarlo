@@ -39,7 +39,6 @@ Frameworks
 Database
 <br/>
 &emsp;
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis")
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb")
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb")
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql")
