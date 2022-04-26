@@ -4,7 +4,7 @@
 ### 🔭 I’m currently working with **Full-Stack Developer**
 
 &emsp;
-Idle
+IDE
 <br/>
 &emsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
