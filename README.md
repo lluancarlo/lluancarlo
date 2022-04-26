@@ -53,12 +53,17 @@ Database
 ### 🌱 I've been studying **Game Developer**
 
 &emsp;
-Frameworks
+Game Engines
 <br/>
 &emsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity")
 ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine")
-<img src="https://pixijs.com/images/logo.svg" height="28">
+
+&emsp;
+Frameworks
+<br/>
+&emsp;
+<img src="https://pixijs.com/images/logo.svg" height="26">
 
 &emsp;
 Languages
