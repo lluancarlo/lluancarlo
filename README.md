@@ -87,7 +87,7 @@ Languages
 <div>
     &emsp;
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lluancarlo&theme=codeSTACKr&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluancarlo&theme=codeSTACKr&layout=compact&langs_count=7"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluancarlo&theme=codeSTACKr&layout=compact&langs_count=6"/>
 </div>
 
 [link_csharp]: https://github.com/lluancarlo?tab=repositories&q=&type=&language=c%23
