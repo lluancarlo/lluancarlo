@@ -1,7 +1,7 @@
 ### 👋 Hey, what's up bro ? 
 ![](https://media4.giphy.com/media/5bGYUuT3VEVLa/giphy.gif?cid=ecf05e472cg6c8boir7sqy7e3g0056o9xxayjxtcfg6d06z2&rid=giphy.gif)
 
-### 🔭 I’m currently working with **Full-Stack Developer**
+### 🔭 I’m currently working with **Full-Stack development**
 
 &emsp;
 IDE
@@ -49,7 +49,7 @@ Database
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 </div>
 
-### 🌱 I've been studying **Game Developer**
+### 🌱 I've been studying **game development**
 
 &emsp;
 Game Engines
