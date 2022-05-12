@@ -62,7 +62,8 @@ Game Engines
 Frameworks
 <br/>
 &emsp;
-<img src="https://pixijs.com/images/logo.svg" height="26">
+[<img src="https://coronalabs.com/wordpress/wp-content/uploads/2017/12/logo_s.svg" height="26" alt="Corona SDK"/>][link_coronasdk]
+[<img src="https://pixijs.com/images/logo.svg" height="26" alt="PIXI JS"/>][link_pixijs]
 
 &emsp;
 Languages
@@ -99,3 +100,5 @@ Languages
 [link_typescript]: https://github.com/lluancarlo?tab=repositories&q=&type=&language=typescript
 [link_json]: https://github.com/lluancarlo?tab=repositories&q=&type=&language=json
 [link_lua]: https://github.com/lluancarlo?tab=repositories&q=&type=&language=lua
+[link_coronasdk]: https://coronalabs.com/
+[link_pixijs]: https://pixijs.com/
