@@ -1,7 +1,35 @@
 ### 👋 Hey, what's up bro ? 
 ![](https://media4.giphy.com/media/5bGYUuT3VEVLa/giphy.gif?cid=ecf05e472cg6c8boir7sqy7e3g0056o9xxayjxtcfg6d06z2&rid=giphy.gif)
 
-### 🔭 I’m currently working with **Full-Stack development**
+### 🌱 I’m currently working with **game development**
+
+&emsp;
+Game Engines
+<br/>
+&emsp;
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+&emsp;
+Frameworks
+<br/>
+&emsp;
+[<img src="https://coronalabs.com/wordpress/wp-content/uploads/2017/12/logo_s.svg" height="26" alt="Corona SDK"/>][link_coronasdk]
+[<img src="https://pixijs.com/images/logo.svg" height="26" alt="PIXI JS"/>][link_pixijs]
+
+&emsp;
+Languages
+<br/>
+&emsp;
+[<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>][link_python]
+[<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>][link_csharp]
+[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++"/>][link_cplusplus]
+[<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript"/>][link_javascript]
+[<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>][link_lua]
+</div>
+
+### 🔭 I already worked with **Full-Stack development**
 
 &emsp;
 IDE
@@ -49,33 +77,6 @@ Database
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 </div>
 
-### 🌱 I've been studying **game development**
-
-&emsp;
-Game Engines
-<br/>
-&emsp;
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-&emsp;
-Frameworks
-<br/>
-&emsp;
-[<img src="https://coronalabs.com/wordpress/wp-content/uploads/2017/12/logo_s.svg" height="26" alt="Corona SDK"/>][link_coronasdk]
-[<img src="https://pixijs.com/images/logo.svg" height="26" alt="PIXI JS"/>][link_pixijs]
-
-&emsp;
-Languages
-<br/>
-&emsp;
-[<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>][link_csharp]
-[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++"/>][link_cplusplus]
-[<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript"/>][link_javascript]
-[<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>][link_typescript]
-[<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>][link_lua]
-</div>
-
 ### 👨🏽‍💻 Social
 <div>
     &emsp;
@@ -100,5 +101,6 @@ Languages
 [link_typescript]: https://github.com/lluancarlo?tab=repositories&q=&type=&language=typescript
 [link_json]: https://github.com/lluancarlo?tab=repositories&q=&type=&language=json
 [link_lua]: https://github.com/lluancarlo?tab=repositories&q=&type=&language=lua
+[link_python]: https://github.com/lluancarlo?tab=repositories&q=&type=&language=python
 [link_coronasdk]: https://coronalabs.com/
 [link_pixijs]: https://pixijs.com/
