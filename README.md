@@ -1,7 +1,7 @@
-### 👋 Hey, what's up bro ? 
+### 👋 Hey bro! 
 ![](https://media4.giphy.com/media/5bGYUuT3VEVLa/giphy.gif?cid=ecf05e472cg6c8boir7sqy7e3g0056o9xxayjxtcfg6d06z2&rid=giphy.gif)
 
-### 🌱 I’m currently working with **game development**
+### 🕹️ I’m currently working with **game development**
 
 &emsp;
 Game Engines
@@ -29,7 +29,7 @@ Languages
 [<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>][link_lua]
 </div>
 
-### 🔭 I already worked with **Full-Stack development**
+### 👨🏻‍💻 I already worked with **Full-Stack development**
 
 &emsp;
 IDE
@@ -77,10 +77,9 @@ Database
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 </div>
 
-### 👨🏽‍💻 Social
+### ☕ Social
 <div>
     &emsp;
-    <a href="https://twitter.com/lluancarlo" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/luancarlosouza/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/18422776/luan-carlo" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
     <a href="https://lluancarlo.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
