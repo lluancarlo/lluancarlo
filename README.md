@@ -81,8 +81,8 @@ Database
 <div>
     &emsp;
     <a href="https://www.linkedin.com/in/luancarlosouza/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/18422776/luan-carlo" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
     <a href="https://lluancarlo.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
+    <a href="https://psnprofiles.com/LuanVeloz1"><img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"></a>
 </div>
 
 ### 📊 Stats
