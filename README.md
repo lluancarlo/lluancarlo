@@ -1,4 +1,4 @@
-### 👋 Hey bro! 
+### 👋 Welcome! 
 ![](https://media4.giphy.com/media/5bGYUuT3VEVLa/giphy.gif?cid=ecf05e472cg6c8boir7sqy7e3g0056o9xxayjxtcfg6d06z2&rid=giphy.gif)
 
 ### 🕹️ I’m currently working with **game development**
@@ -80,7 +80,6 @@ Database
 ### ☕ Social
 <div>
     &emsp;
-    <a href="https://www.linkedin.com/in/luancarlosouza/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://lluancarlo.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
     <a href="https://psnprofiles.com/LuanVeloz1" target="_blank"><img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white" /></a>
     <a href="https://retroachievements.org/user/luanveloz1" target="_blank"><img src="https://retroachievements.github.io/assets/images/retroachievements-logo-large.png" height="28"/></a>
