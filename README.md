@@ -29,7 +29,7 @@ Languages
 [<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>][link_lua]
 </div>
 
-### 👨🏻‍💻 I already worked with **Full-Stack development**
+### 👨🏻‍💻 But before games, I had been working with Full-Stack Development**
 
 &emsp;
 IDE
@@ -82,7 +82,8 @@ Database
     &emsp;
     <a href="https://lluancarlo.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
     <a href="https://psnprofiles.com/LuanVeloz1" target="_blank"><img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white" /></a>
-    <a href="https://retroachievements.org/user/luanveloz1" target="_blank"><img src="https://retroachievements.github.io/assets/images/retroachievements-logo-large.png" height="28"/></a>
+    <a href="https://steamcommunity.com/id/luanveloz1" target="_blank"><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" height="28"/></a>
+    <a href="https://retroachievements.org/user/luanveloz1" target="_blank"><img src="https://i.retroachievements.org/Images/RA_LogoLarge.png" height="28"/></a>
 </div>
 
 ### 📊 Stats
