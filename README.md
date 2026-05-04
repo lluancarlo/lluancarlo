@@ -63,3 +63,15 @@ I mainly work with C#, Godot, Unity, Unreal Engine, and modern web technologies.
 [![RetroAchievements](https://img.shields.io/badge/RetroAchievements-222222?style=for-the-badge&logo=retroarch&logoColor=white)](https://retroachievements.org/user/luanveloz1)
 
 </div>
+
+<div align="center">
+
+## Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lluancarlo&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lluancarlo&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lluancarlo&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lluancarlo&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lluancarlo&theme=aura_dark&utcOffset=8)
+
+</div>
